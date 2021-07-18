@@ -1,0 +1,11 @@
+Script : 
+
+Object.values(webpackJsonp.push([[],{[''] :(_,e,r)=>{e.cache=r.c}},
+[['']]]).cache).find(m=>m.exports&&m.exports.default&&m.exports.default.getCurrentUser!==void
+0).exports.default.getCurrentUser().flags=-33
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Commande Touche : CTRL + SHIFT + I
+
+ensuite aller dans console et copier coller le scipt et ensuite fermer la petit page a droite
